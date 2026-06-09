@@ -103,8 +103,7 @@ Alta3 Research Training Project
 - Bat-Signal tracker
 
 ## New Files Added
-'''
--BatmanAPI.py
--requirements.txt
--docs/release_notes.md
-'''
+
+- BatmanAPI.py
+- requirements.txt
+- docs/release_notes.md
